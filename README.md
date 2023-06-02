@@ -11,4 +11,9 @@ Capacitate the staff technical expertise in python programming for Water and cli
 
 ## JupyterHub link
 
-a196a01ff00294c07bd1a8185fc83641-943591408.us-east-1.elb.amazonaws.com
+http://a94ac4fe637b742bebcea7217f21622c-545993365.us-east-1.elb.amazonaws.com/
+
+
+## Data download link
+
+https://igadint-my.sharepoint.com/:u:/g/personal/nishadh_kalladath_igad_int/EU3_tSGdPIZGuIyeNETAV0gBXgD7MbjFpSN65QJnRBk4Jw?e=2DSUCc
